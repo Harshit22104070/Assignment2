@@ -1,0 +1,7 @@
+name =str(input("What is your name?"))
+sid =int(input("What is your SID?"))
+dept =str(input("What is your department?"))
+cgpa =float(input("Your CGPA?"))
+print("Hey,",name," Here!")
+print("My SID is ",sid)
+print("I am from ",dept," department and my cgpa is ",cgpa)
